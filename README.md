@@ -95,3 +95,5 @@ stop
 - Works on Linux, macOS, or Windows with `gcc`
 
 ---
+
+> README.md is generated using ChatGPT
